@@ -16,3 +16,12 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+/* Custom CSS */
+section {
+	padding: 8rem 0;
+}
+
+footer {
+	padding: 2rem 0;
+}
