@@ -61,8 +61,18 @@
 				</nav>
 			</header>
 
+			<!-- Welcome Section -->
 			<section>
-
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="jumbotron text-center">
+								<h1>Welcome to the Bootstrap Challenge</h1>
+								<p>La croix chambray organic ugh, plaid raw denim pok pok umami gastropub neutra deep v paleo jianbing semiotics cray.</p>
+							</div>
+						</div>
+					</div>
+				</div>
 			</section>
 
 			<section>
