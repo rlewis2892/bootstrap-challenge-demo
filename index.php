@@ -161,8 +161,14 @@
 			</section>
 
 		</div>
-		<footer>
-			this is the footer
+		<footer class="bg-info text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-md-offset-4">
+						footer text
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
