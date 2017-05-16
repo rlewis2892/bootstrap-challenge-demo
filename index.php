@@ -75,8 +75,18 @@
 				</div>
 			</section>
 
-			<section>
-
+			<!-- Photo and Text Section -->
+			<section class="bg-info">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							<img class="img-responsive img-thumbnail" src="https://www.fillmurray.com/g/500/300" alt="bill murray">
+						</div>
+						<div class="col-md-9">
+							<p>Church-key 3 wolf moon disrupt cronut organic, sriracha narwhal meggings. Whatever ethical chicharrones tilde, taxidermy ennui XOXO 3 wolf moon sustainable keytar crucifix franzen vexillologist seitan viral. Slow-carb taxidermy drinking vinegar authentic, woke butcher plaid banjo austin. Neutra la croix flannel meditation knausgaard flexitarian. Craft beer franzen gochujang marfa chia, direct trade squid gastropub four dollar toast everyday carry. Gentrify vice hexagon, cornhole seitan four dollar toast put a bird on it post-ironic celiac. Dreamcatcher sriracha pop-up subway tile, PBR&B tumblr health goth williamsburg pinterest microdosing photo booth keffiyeh.</p>
+						</div>
+					</div>
+				</div>
 			</section>
 
 			<section>
